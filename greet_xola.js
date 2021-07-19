@@ -8,6 +8,4 @@ figlet(greet("Xola"), (err, data)=>{
 	console.log(data)
 	return data
 })
-
-
 console.log(styledMessage)
